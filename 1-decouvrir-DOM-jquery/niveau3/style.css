@@ -1,0 +1,45 @@
+.divFilm{
+    display: flex;
+    width: 90%;
+    height: 50px;
+    line-height: 20px;
+    background-color: rgb(75, 75, 75);
+    margin: 2px;
+
+}
+
+.divIndex{
+    
+    left: initial;
+    text-align: center;
+    background-color: aliceblue;
+    color: black;
+    font-size: x-large;
+    width: 15%;
+    border: solid 2px;
+    margin: 2px;
+
+}
+
+.divTitle{
+    width: 100%;
+    margin-left: 5%;
+    display: table-cell;
+    font-size: medium;
+    font-style: normal;
+    margin: 2px;
+
+}
+
+
+.playButton{
+    width: 50px;
+    height: auto;
+
+}
+
+body{
+    background: linear-gradient(90deg, rgb(0, 157, 248), blue);
+    color: whitesmoke;
+}
+

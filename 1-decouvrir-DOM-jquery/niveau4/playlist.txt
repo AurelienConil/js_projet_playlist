@@ -1,0 +1,9 @@
+1, Le Mans 66 , 1h30, 4
+2, The Irishman , 1h50, 3
+3, Jojo Rabbit , 1h15, 2
+4, Joker , 1h45, 4
+5, Les Filles du Docteur March , 55m, 5
+6, Marriage Story , 2h05, 4
+7, 1917 , 1h25, 3
+8, Once Upon a Time ... in Hollywood , 1h55, 2 
+9, Parasite , 1h45, 2
